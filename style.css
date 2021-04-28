@@ -1,0 +1,45 @@
+.done {
+    text-decoration: line-through;
+}
+
+h1 {
+    text-align: center;
+}
+
+#list {
+    width: 35%;
+    margin: auto;
+    border: 3px solid black;
+    box-shadow:  5px 10px;
+    padding: 10px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0);
+}
+
+
+ul {
+    padding: 0;
+    margin: 0px;
+    list-style-type: none;
+    
+}
+
+img {
+   height: 400px;
+    width: fit-content;
+    justify-content: center;
+}
+
+#gif {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body{
+    background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(128, 255, 255), rgb(1, 216, 254)) repeat scroll 0% 0%; ;
+}
+
+#enter {
+    border-radius: 5px;
+}
